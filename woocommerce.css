@@ -4,6 +4,16 @@ Theme Name: _s
 WooCommerce styles override
 */
 
+/*------------------------------------*\
+breakpoint vars
+\*------------------------------------*/
+
+/*------------------------------------*\
+breakpoint mixin
+\*------------------------------------*/
+
+/** Break desktop first**/
+
 /**
  * Shop tables
  */
